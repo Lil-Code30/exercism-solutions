@@ -27,10 +27,13 @@ Each exercise directory contains numbered subdirectories (e.g., `1/`, `2/`) repr
 
 | Exercise | Status |
 |----------|--------|
-| Hello World | ✅ Completed |
-| Lucian's Luscious Lasagna | ✅ Completed |
-| Bird Watcher | ✅ Completed |
 | Annalyn's Infiltration | ✅ Completed |
+| Bird Watcher | ✅ Completed |
+| Hello World | ✅ Completed |
+| Jedlik's Toys | ✅ Completed |
+| Lucian's Luscious Lasagna | ✅ Completed |
+| Secure Munchester United | ✅ Completed |
+| Squeaky Clean | ✅ Completed |
 
 ## 💻 Technologies Used
 
@@ -51,7 +54,7 @@ Each exercise directory contains numbered subdirectories (e.g., `1/`, `2/`) repr
 ## 🔗 Links
 
 - [Exercism Website](https://exercism.org/)
-- [My Exercism Profile](https://exercism.org/profiles/Lil-Code30)
+- [My Exercism Profile](https://exercism.org/profiles/loko-thedev)
 - [C# Track on Exercism](https://exercism.org/tracks/csharp)
 
 ## 📄 License
