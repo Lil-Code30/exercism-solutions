@@ -54,7 +54,7 @@ Each exercise directory contains numbered subdirectories (e.g., `1/`, `2/`) repr
 ## 🔗 Links
 
 - [Exercism Website](https://exercism.org/)
-- [My Exercism Profile](https://exercism.org/profiles/Lil-Code30)
+- [My Exercism Profile](https://exercism.org/profiles/loko-thedev)
 - [C# Track on Exercism](https://exercism.org/tracks/csharp)
 
 ## 📄 License
