@@ -12,11 +12,19 @@ Solutions are organized by programming language and exercise name:
 
 ```
 solutions/
-└── csharp/
-    ├── annalyns-infiltration/
-    ├── bird-watcher/
-    ├── hello-world/
-    └── lucians-luscious-lasagna/
+├── csharp/
+│   ├── annalyns-infiltration/
+│   ├── bird-watcher/
+│   ├── developer-privileges/
+│   ├── hello-world/
+│   ├── jedliks-toys/
+│   ├── lucians-luscious-lasagna/
+│   ├── secure-munchester-united/
+│   └── squeaky-clean/
+└── python/
+    ├── ghost-gobble-arcade-game/
+    ├── guidos-gorgeous-lasagna/
+    └── hello-world/
 ```
 
 Each exercise directory contains numbered subdirectories (e.g., `1/`, `2/`) representing different solution iterations or versions.
@@ -29,15 +37,25 @@ Each exercise directory contains numbered subdirectories (e.g., `1/`, `2/`) repr
 |----------|--------|
 | Annalyn's Infiltration | ✅ Completed |
 | Bird Watcher | ✅ Completed |
+| Developer Privileges | ✅ Completed |
 | Hello World | ✅ Completed |
 | Jedlik's Toys | ✅ Completed |
 | Lucian's Luscious Lasagna | ✅ Completed |
 | Secure Munchester United | ✅ Completed |
 | Squeaky Clean | ✅ Completed |
 
+### Python Track
+
+| Exercise | Status |
+|----------|--------|
+| Ghost Gobble Arcade Game | ✅ Completed |
+| Guido's Gorgeous Lasagna | ✅ Completed |
+| Hello World | ✅ Completed |
+
 ## 💻 Technologies Used
 
-- **C#**: Primary language for current solutions
+- **C#**: Primary language for solutions
+- **Python**: Additional language track
 
 ## 🎯 Goals
 
@@ -56,6 +74,7 @@ Each exercise directory contains numbered subdirectories (e.g., `1/`, `2/`) repr
 - [Exercism Website](https://exercism.org/)
 - [My Exercism Profile](https://exercism.org/profiles/loko-thedev)
 - [C# Track on Exercism](https://exercism.org/tracks/csharp)
+- [Python Track on Exercism](https://exercism.org/tracks/python)
 
 ## 📄 License
 
