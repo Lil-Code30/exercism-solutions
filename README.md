@@ -21,6 +21,8 @@ solutions/
 │   ├── lucians-luscious-lasagna/
 │   ├── secure-munchester-united/
 │   └── squeaky-clean/
+├── java/
+│   └── hello-world/
 └── python/
     ├── ghost-gobble-arcade-game/
     ├── guidos-gorgeous-lasagna/
@@ -52,9 +54,16 @@ Each exercise directory contains numbered subdirectories (e.g., `1/`, `2/`) repr
 | Guido's Gorgeous Lasagna | ✅ Completed |
 | Hello World | ✅ Completed |
 
+### Java Track
+
+| Exercise | Status |
+|----------|--------|
+| Hello World | ✅ Completed |
+
 ## 💻 Technologies Used
 
 - **C#**: Primary language for solutions
+- **Java**: Additional language track
 - **Python**: Additional language track
 
 ## 🎯 Goals
@@ -74,6 +83,7 @@ Each exercise directory contains numbered subdirectories (e.g., `1/`, `2/`) repr
 - [Exercism Website](https://exercism.org/)
 - [My Exercism Profile](https://exercism.org/profiles/loko-thedev)
 - [C# Track on Exercism](https://exercism.org/tracks/csharp)
+- [Java Track on Exercism](https://exercism.org/tracks/java)
 - [Python Track on Exercism](https://exercism.org/tracks/python)
 
 ## 📄 License
